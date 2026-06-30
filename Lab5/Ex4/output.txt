@@ -1,0 +1,28 @@
+P03 | Pencil | 2.5
+P01 | Pen | 10
+P02 | Notebook | 75
+P04 | Calculator | 55
+
+Search by name (Pen):
+The id is:P01
+the name is:Pen
+The price is:10
+
+Search by price (75):
+The id is:P02
+the name is:Notebook
+The price is:75
+
+Update product id P03:
+The id is:P03
+the name is:Pencil
+The price is:2.5
+The new id is:P05
+the new name is:Dick
+The new price is:999
+
+After update:
+P05 | Dick | 999
+P01 | Pen | 10
+P02 | Notebook | 75
+P04 | Calculator | 55

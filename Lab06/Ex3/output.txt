@@ -1,0 +1,7 @@
+List after inserts:
+5
+10
+15
+20
+List after deletes:
+10

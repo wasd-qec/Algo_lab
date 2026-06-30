@@ -1,0 +1,6 @@
+Please enter your name: both
+Please enter your major: se
+Please enter your gender (male or female): male
+Please enter your age: 18 
+Hi, Mr both! your age is 18 year old and you learn se
+you can vote!

@@ -1,0 +1,10 @@
+Enter n number :
+5
+Sum:216
+Average :43
+List after inserts:
+42
+68
+35
+1
+70

@@ -1,0 +1,15 @@
+addEnd(ls, 3): 3 
+addBeg(ls, 1): 1 3 
+addPos(ls, 2, 2): 1 2 3 
+addPos(ls, 4, 4): 1 2 3 4 
+addPos(ls, 5, 10) (invalid): Bro the list not that big
+
+--- Testing Min/Max Functions ---
+Min :1
+Max :4
+
+--- Testing Deleting Functions ---
+deleteBeg(ls): 2 3 4 
+deleteEnd(ls): 2 3 
+deletePos(ls, 2): 2
+deletePos(ls, 10) (invalid): Bro the list not that big

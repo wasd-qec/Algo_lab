@@ -1,0 +1,14 @@
+Enter your name :
+both
+Do you wish to not continue(y/n) :n
+Enter your name :
+gege
+Do you wish to not continue(y/n) :n
+Enter your name :
+labubuu
+Do you wish to not continue(y/n) :y
+labubuu
+gege
+both
+
+C:\School\Algo\lab\Lab5>

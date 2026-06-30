@@ -1,0 +1,30 @@
+===== MENU =====
+1. Celsius to Fahrenheit
+2. Fahrenheit to Celsius
+3. Root of quadratic equation
+4. Compute BMI and category
+5. Sum 1..n except numbers divisible by 3
+0. Exit
+Choose an option: 4
+Enter weight (kg): 65
+Enter height (m): 1.7
+BMI = 22.4913 -> normal weight
+
+===== MENU =====
+1. Celsius to Fahrenheit
+2. Fahrenheit to Celsius
+3. Root of quadratic equation
+4. Compute BMI and category
+5. Sum 1..n except numbers divisible by 3
+0. Exit
+Choose an option: 1
+Enter Celsius: 30All books:
+Fahrenheit = 86
+
+===== MENU =====
+1. Celsius to Fahrenheit
+2. Fahrenheit to Celsius
+3. Root of quadratic equation
+4. Compute BMI and category
+5. Sum 1..n except numbers divisible by 3
+0. Exit

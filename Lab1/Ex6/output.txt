@@ -1,0 +1,2 @@
+Enter n (n > 50): 234
+Summation from 1 to 234 (except 10 and 30) = 27455

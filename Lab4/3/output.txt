@@ -1,0 +1,5 @@
+1 Alya 2 Computer Science
+2 Brian 2 Information Systems
+3 Citra 3 Computer Engineering
+4 Dimas 1 Software Engineering
+5 Eka 4 Data Science

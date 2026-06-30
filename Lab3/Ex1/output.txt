@@ -1,0 +1,2 @@
+﻿=== Exercise 1 Output ===
+1      2      3 0xb75d3ff91c      0xb75d3ff918      0xb75d3ff914 10      20      30

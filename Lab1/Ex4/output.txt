@@ -1,0 +1,18 @@
+What will the user choose?
+1. Scissor
+2. Paper
+3. Rock
+4. Exit
+option : 3
+
+
+User picks : scissor    I pick :rock
+Computer wins!
+Score - User: 0 | Computer: 1
+
+What will the user choose?
+1. Scissor
+2. Paper
+3. Rock
+4. Exit
+option : 

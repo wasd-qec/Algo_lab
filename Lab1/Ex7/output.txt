@@ -1,0 +1,46 @@
+All books:
+------------------------------
+Book ID: 1
+ISBN: 1234
+Title: The C Programming Language
+Published Year: 1988
+Authors: Brian W. Kernighan, Dennis M. Ritchie
+Price ($): 45.50
+------------------------------
+Book ID: 2
+ISBN: 7654
+Title: Effective C++
+Published Year: 2005
+Authors: Scott Meyers
+Price ($): 39.99
+------------------------------
+Book ID: 3
+ISBN: 3545
+Title: Design Patterns
+Published Year: 1994
+Authors: Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
+Price ($): 55.75
+------------------------------
+Book ID: 4
+ISBN: 9999
+Title: Clean Code
+Published Year: 2008
+Authors: Robert C. Martin
+Price ($): 42.00
+------------------------------
+Book ID: 5
+ISBN: 8888
+Title: Fluent Python
+Published Year: 2015
+Authors: Luciano Ramalho
+Price ($): 49.90
+------------------------------
+
+Enter ISBN to search: 8888
+Book found:
+Book ID: 5
+ISBN: 8888
+Title: Fluent Python
+Published Year: 2015
+Authors: Luciano Ramalho
+Price ($): 49.90

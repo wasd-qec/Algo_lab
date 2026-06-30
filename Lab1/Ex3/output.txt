@@ -1,0 +1,4 @@
+Enter name : both 
+Enter gender (male or female): male
+Enter salary : 30000
+Your tax are : 2850

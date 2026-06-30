@@ -1,0 +1,4 @@
+Enter a number: You entered 0. Enter 0 again to stop, or a non-zero number to continue.
+Enter a number: You entered 0 twice in a row. Exiting input.
+All data in the list are: 
+Summation of all numbers is: 0

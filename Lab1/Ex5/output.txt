@@ -1,0 +1,2 @@
+Enter minute(s): 300
+Time format (h:m:s) = 5:0:0

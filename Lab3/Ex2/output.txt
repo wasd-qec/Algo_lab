@@ -1,0 +1,3 @@
+﻿=== Exercise 2 Output ===
+USER INPUT: 5
+Enter N number: Modified value of n: 12

@@ -1,0 +1,6 @@
+P03 | Pencil | 2.5
+P01 | Pen | 10
+P02 | Notebook | 75
+P04 | Calculator | 55
+
+C:\School\Algo\lab\Lab5>

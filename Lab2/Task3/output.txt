@@ -1,0 +1,17 @@
+Menu 
+1. n star
+2. n number
+1
+How many star do you want to show?
+7
+*******
+Menu 
+1. n star
+2. n number
+2
+How many number do you want to show?
+8
+87654321
+Menu
+1. n star
+2. n number

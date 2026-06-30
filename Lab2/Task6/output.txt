@@ -1,0 +1,8 @@
+Enter the number:12
+Enter the number:12
+Enter the number:5
+Enter the number:6
+Enter the number:32
+Enter the number:-1
+66
+Press any key to continue . . . 
