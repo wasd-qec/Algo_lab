@@ -1,0 +1,5 @@
+Pushing 10, 20, 30...
+Peek top element: 30
+Popped element: 30
+Displaying remaining stack:
+20  10
