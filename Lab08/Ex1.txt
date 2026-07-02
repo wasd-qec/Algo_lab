@@ -1,0 +1,30 @@
+--- Enqueuing elements ---
+You have enqueued: 10 at index 0
+You have enqueued: 20 at index 1
+You have enqueued: 30 at index 2
+Queue: 10 20 30 (Size: 3)
+
+--- Checking Front ---
+Front element: 10
+
+--- Dequeuing element ---
+You have dequeued: 10 from index 0
+Queue: 20 30 (Size: 2)
+
+--- Enqueuing up to capacity ---
+You have enqueued: 40 at index 3
+You have enqueued: 50 at index 4
+You have enqueued: 60 at index 5
+You have enqueued: 70 at index 6
+You have enqueued: 80 at index 7
+You have enqueued: 90 at index 8
+You have enqueued: 100 at index 9
+Q is full (Cannot enqueue 110)
+Queue: 20 30 40 50 60 70 80 90 100 (Size: 9)
+
+--- Trying to enqueue when rear is at the end ---
+Q is full (Cannot enqueue 120)
+
+--- Dequeuing one element to show wasted space ---
+You have dequeued: 20 from index 1
+Queue: 30 40 50 60 70 80 90 100 (Size: 8)
