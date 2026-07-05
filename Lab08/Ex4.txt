@@ -1,0 +1,49 @@
+***********************************
+Welcome to the MK Restaurant!
+Menu:
+1. Add a customer to the queue
+2. Remove a customer from the queue
+3. Display queue
+4. Exit the program
+          Enter a choice: 1
+Enter a student's name: bob 
+Enter a student's sex: m
+Enter a student's phone number: 019373493 
+***********************************
+Welcome to the MK Restaurant!
+Menu:
+1. Add a customer to the queue
+2. Remove a customer from the queue
+3. Display queue
+4. Exit the program
+          Enter a choice: 1
+Enter a student's name: jack
+Enter a student's sex: f
+Enter a student's phone number: 13890274
+***********************************
+Welcome to the MK Restaurant!
+Menu:
+1. Add a customer to the queue
+2. Remove a customer from the queue
+3. Display queue
+4. Exit the program
+          Enter a choice: 3
+1 bob            m         019373493
+2 jack           f         13890274
+***********************************
+Welcome to the MK Restaurant!
+Menu:
+1. Add a customer to the queue
+2. Remove a customer from the queue
+3. Display queue
+4. Exit the program
+          Enter a choice: 2
+Serving customer, bob!
+***********************************
+Welcome to the MK Restaurant!
+Menu:
+1. Add a customer to the queue
+2. Remove a customer from the queue
+3. Display queue
+4. Exit the program
+          Enter a choice:
