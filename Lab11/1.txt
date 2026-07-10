@@ -1,0 +1,38 @@
+(No collision) Consider a hash table data structure that has a simple hash function as “key mod 20”. We would like to insert these numbers 50, 700, 76, 85, 92, 73, 101, respectively into this hash table. Draw the hash table to see how your data is stored.
+
+Hash Function: h(key) = key % 20
+
+Hash values for each key:
+- h(50)  = 50 % 20  = 10
+- h(700) = 700 % 20 = 0
+- h(76)  = 76 % 20  = 16
+- h(85)  = 85 % 20  = 5
+- h(92)  = 92 % 20  = 12
+- h(73)  = 73 % 20  = 13
+- h(101) = 101 % 20 = 1
+
+Hash Table (No Collision):
++-------+-------+
+| Index | Value |
++-------+-------+
+|   0   |  700  |
+|   1   |  101  |
+|   2   |  None |
+|   3   |  None |
+|   4   |  None |
+|   5   |   85  |
+|   6   |  None |
+|   7   |  None |
+|   8   |  None |
+|   9   |  None |
+|  10   |   50  |
+|  11   |  None |
+|  12   |   92  |
+|  13   |   73  |
+|  14   |  None |
+|  15   |  None |
+|  16   |   76  |
+|  17   |  None |
+|  18   |  None |
+|  19   |  None |
++-------+-------+

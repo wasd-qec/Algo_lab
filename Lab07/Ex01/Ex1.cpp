@@ -52,17 +52,18 @@ int peek(stack& book){
         return book.s[book.top];
     }
 }
-void display(stack& book){
+void display(const stack& book){
     if(isEmpty(book)){
-        cout<<"the stack is Empty"<<endl;
+        cout << "the stack is Empty" << endl;
         return;
     }
-    else{
-        while(book.top!=-1){
-            cout<<"LABUBU :"<<book.top+1<<"  "<<pop(book)<<endl;
-        }
+    
+    // Just loop backwards through the array!
+    for(int i = book.top; i >= 0; i--){
+        cout << "LABUBU :" << i + 1 << "  " << book.s[i] << endl;
     }
 }
+
 int main() {
     // 1. Create and initialize the stack
     stack myStack;
