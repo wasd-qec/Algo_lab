@@ -5,7 +5,7 @@ using namespace std;
 int getAsciiSum(const string& str) {
     int sum = 0;
     for (char c : str) {
-        sum += c; // c is automatically treated as its ASCII integer value
+        sum += c;
     }
     return sum;
 }

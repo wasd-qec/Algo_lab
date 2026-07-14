@@ -1,0 +1,16 @@
+﻿=== Exercise 1: Student ID BST ===
+Inserting Student IDs (e.g. 20110015, 20110008, 20110020):
+Inserted 5 IDs.
+
+Pre-order Traversal:
+20110015 20110008 20110005 20110012 20110020 
+
+In-order Traversal (Sorted IDs):
+20110005 20110008 20110012 20110015 20110020 
+
+Post-order Traversal:
+20110005 20110012 20110008 20110020 20110015 
+
+Tree Size: 5
+
+Searching for ID 20110012: Found!

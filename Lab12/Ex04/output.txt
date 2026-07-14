@@ -1,0 +1,8 @@
+﻿Enter number of students: Enter student 1 name: Enter student 1 age: Enter student 2 name: Enter student 2 age: Enter student 3 name: Enter student 3 age: 
+In-order Traversal of Students:
+Alice (Age: 20)
+Bob (Age: 22)
+Charlie (Age: 19)
+
+Youngest student: Charlie (Age: 19)
+Oldest student: Bob (Age: 22)

@@ -1,0 +1,1 @@
+﻿Input number #1: Input number #2: Input number #3: Input number #4: Input number #5: Quick Sort: 20 7 4 0 -2 

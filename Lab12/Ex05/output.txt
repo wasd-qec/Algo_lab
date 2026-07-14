@@ -1,0 +1,29 @@
+﻿Loaded employees into BST. Current database listing (In-order):
+emp001: John Doe (Manager)
+emp002: Jane Smith (Developer)
+emp003: Bob Johnson (Designer)
+emp004: Alice Williams (Analyst)
+emp005: Charlie Brown (HR)
+emp006: David Jones (Developer)
+emp007: Eva Miller (Manager)
+emp008: Frank Davis (Admin)
+emp009: Grace Garcia (Developer)
+emp010: Henry Rodriguez (Developer)
+emp011: Ivy Wilson (Designer)
+emp012: Jack Martinez (Analyst)
+emp013: Karen Anderson (HR)
+emp014: Leo Taylor (Developer)
+emp015: Mia Thomas (Manager)
+emp016: Nathan Hernandez (Admin)
+emp017: Olivia Moore (Developer)
+emp018: Peter Martin (Developer)
+emp019: Quinn Jackson (Designer)
+emp020: Ryan Thompson (Analyst)
+
+Enter Employee ID to search (e.g., emp005): 
+Employee Found!
+ID: emp005
+Name: Charlie Brown
+Position: HR
+Gender: M
+Phone: 011-222-333

@@ -1,0 +1,21 @@
+﻿--- Initializing Queue with Tasks ---
+You have enqueued: Task4
+You have enqueued: Task1
+You have enqueued: Task3
+You have enqueued: Task2
+
+Queue: Task4 -> Task1 -> Task3 -> Task2 (Size: 4)
+
+Do you want to activate a task in your queue now? Doing task 4 ..... DONE!
+Queue: Task1 -> Task3 -> Task2 (Size: 3)
+
+Do you want to activate a task in your queue now? Doing task 1 ..... DONE!
+Queue: Task3 -> Task2 (Size: 2)
+
+Do you want to activate a task in your queue now? Doing task 3 ..... DONE!
+Queue: Task2 (Size: 1)
+
+Do you want to activate a task in your queue now? Doing task 2 ..... DONE!
+Queue is empty
+
+All tasks have been processed and the queue is empty.

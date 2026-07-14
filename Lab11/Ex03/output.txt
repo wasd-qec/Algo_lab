@@ -1,0 +1,17 @@
+Searching for existing name 'Bob':
+We found it at index :5And the position:1
+
+Attempting to delete non-existing name 'Alice':
+We cant find it
+
+Displaying all data in the hash table:
+Index: 0, Data: Empty
+Index: 1, Data: Empty
+Index: 2, Data: Empty
+Index: 3, Data: Empty
+Index: 4, Data: Empty
+Index: 5, Data: [Aoc] -> [Bob] -> NULL
+Index: 6, Data: Empty
+Index: 7, Data: Empty
+Index: 8, Data: Empty
+Index: 9, Data: Empty

@@ -1,0 +1,50 @@
+﻿=== Part A & B: Insert and Display 3 Students ===
+
+Enter student 1 details:
+ID (e.g. e20110015): Name: Sex: Phone: Major: 
+Enter student 2 details:
+ID (e.g. e20110015): Name: Sex: Phone: Major: 
+Enter student 3 details:
+ID (e.g. e20110015): Name: Sex: Phone: Major: 
+--- Current Hash Table State ---
+Index 0: Empty
+Index 1: Empty
+Index 2: Empty
+Index 3: Empty
+Index 4: Empty
+Index 5: Empty
+Index 6: Empty
+Index 7: Empty
+Index 8: Empty
+Index 9: Empty
+Index 10: [e20110015 | John | M | 012-345-678 | CS] -> NULL
+Index 11: [e20110016 | Jane | F | 098-765-432 | ECE] -> NULL
+Index 12: [e20110017 | Bob | M | 055-666-777 | ME] -> NULL
+Index 13: Empty
+Index 14: Empty
+
+=== Part C: Study duplicate hash (collision) case ===
+We will insert a 4th student whose ID has the same hash index as an existing one.
+Example: ID 'e20110030' has numeric part 20110030.
+20110030 % 15 = 0. ID 'e20110015' also has 20110015 % 15 = 0.
+These two will collide at Index 0.
+
+Inserting colliding student: ID = e20110030, Name = Alice, Sex = F, Phone = 099-888-777, Major = Telecom
+Inserting duplicate ID to verify: ID = e20110015, Name = DuplicateBob, Sex = M, Phone = 123-456, Major = CS
+
+--- Updated Hash Table State ---
+Index 0: Empty
+Index 1: Empty
+Index 2: Empty
+Index 3: Empty
+Index 4: Empty
+Index 5: Empty
+Index 6: Empty
+Index 7: Empty
+Index 8: Empty
+Index 9: Empty
+Index 10: [e20110015 | DuplicateBob | M | 123-456 | CS] -> [e20110030 | Alice | F | 099-888-777 | Telecom] -> [e20110015 | John | M | 012-345-678 | CS] -> NULL
+Index 11: [e20110016 | Jane | F | 098-765-432 | ECE] -> NULL
+Index 12: [e20110017 | Bob | M | 055-666-777 | ME] -> NULL
+Index 13: Empty
+Index 14: Empty

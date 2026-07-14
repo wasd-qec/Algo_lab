@@ -1,0 +1,13 @@
+﻿Reading numbers from 'numbers.txt' and inserting into BST:
+99 2 7 8 0 -1 99 1 5 
+
+a. Pre-order Traversal:
+99 2 0 -1 1 7 5 8 
+
+b. In-order Traversal:
+-1 0 1 2 5 7 8 99 
+
+c. Post-order Traversal:
+-1 1 0 5 8 7 2 99 
+
+Tree Size (Unique Elements): 8

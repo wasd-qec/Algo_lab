@@ -1,0 +1,7 @@
+﻿Generating 20 random numbers in range [10 - 1000] and inserting into BST:
+467 39 815 391 625 172 878 305 588 392 800 779 417 249 913 693 249 994 140 620 
+
+In-order Traversal of the BST (Sorted data):
+39 140 172 249 305 391 392 417 467 588 620 625 693 779 800 815 878 913 994 
+
+Successfully wrote the sorted numbers to file 'sorted_numbers.txt'.
